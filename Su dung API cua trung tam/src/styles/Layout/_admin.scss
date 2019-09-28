@@ -1,0 +1,440 @@
+/*----------------------------
+          Admin
+ ----------------------------*/
+
+ .admin__panel {
+    position: relative;
+    color: $color_black;
+    .admin__header {
+        position: fixed;
+        width: 100%;
+        z-index: 100;;
+        top: 0;
+        left: 0;
+        .navbar {
+            a {
+                font-family: "poppins", sans-serif;
+                text-decoration: none;
+                color: white;
+                cursor: pointer;
+             }
+             .navbar-nav .nav-item a {
+                text-decoration: none;
+                color: white;
+             }
+        }
+    }
+    .admin__content {
+        width: 100%;
+        height: 100vh;
+        padding-top: 56px;
+        .title {
+            color: dodgerblue;
+            font-weight: bold;
+            font-size: 1.5rem;
+            padding: 20px 0;
+            border-bottom: 1px solid #e9e9e9;
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            li {
+                padding: 5% 12%;
+                font-size: 1.3rem;
+                border-bottom: 1px solid #e9e9e9;
+                cursor: pointer;
+                transition: all .2s;
+                &:hover {
+                    background-color: rgb(124, 189, 253);
+                    color:white;
+                    transform: scale(1.1);
+                 }
+             }
+            li.active {
+                background-color: dodgerblue;
+                color:white;
+                transform: scale(1.1);
+            }
+         }
+        .admin__manager {
+            background-color: #f6f6f6;
+            height: 100%;
+            position: fixed;
+            width: 15%;
+            z-index: 100;;
+            top: 56px;
+            left: 0%;
+        }
+         .admin__dashboard {
+            margin-bottom: 3%;
+        }
+     }
+}
+
+/*----------------------------
+          Dashboard
+ ----------------------------*/
+
+.dash__views {
+    margin-bottom: 5%;
+    .views__detail {
+        background-color: #f6f6f6;
+        padding: 5%;
+        margin-top: 5%;
+        border-radius: 0;
+        .views__percent {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 2% 0;
+        }
+    }
+}
+
+.dash__new {
+    margin-top: 2%;
+    color: $color_white;
+    .dash__detail {
+        position: relative;
+        padding: 5% 1%;
+        height: 160px;
+        border-radius: 5px;
+        .dash__name {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            i {
+                font-size: 4rem;
+                margin-left: 5%;
+            }
+            .dash__number {
+                text-align: right;
+                margin-right: 5%;
+            }
+        }
+    }
+    .dash__detail.info {
+        background-color: #ff6384;
+        border: 3px solid #ff6384;
+        .dash__more {
+            color: #ff6384;
+        }
+    }
+    .dash__detail.danger {
+        background-color: #4bc0c0;
+        border: 3px solid #4bc0c0;
+        .dash__more {
+            color: #4bc0c0;
+        }
+    }
+    .dash__detail.success {
+        background-color: #36a2eb;
+        border: 3px solid #36a2eb;
+        .dash__more {
+            color: #36a2eb;
+        }
+    }
+    .dash__detail.warning {
+        background-color: #ffce56;
+        border: 3px solid #ffce56;
+        .dash__more {
+            color: #ffce56;
+        }
+    }
+    .dash__more {
+        position: absolute;
+        background-color: #f6f6f6;
+        display: flex;
+        justify-content: space-between;
+        width: 99%;
+        bottom: 1%;
+        left: .5%;
+        padding: 2% 0;
+        h6 {
+            font-size: 1.1rem;
+            font-weight: bold;
+            margin-left: 2%;
+            padding-top: 1%;
+        }
+        span {
+            font-size: 1.4rem;
+            font-weight: bold;
+            margin-right: 2%;
+        }
+    }
+}
+
+/*----------------------------
+          Courses
+ ----------------------------*/
+
+.post__title {
+    .add__search {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 1%;
+        .add__course {
+            background: #28a745;
+            padding: 15px 35px;
+            color: white;
+            font-weight: bold;
+            border: none;
+        }
+        input {
+            height: 40px;
+            width: 300px;
+            padding: 0 1%;
+        }
+    }
+}
+
+.table__courses {
+    .name__wrapper {
+        img {
+            width: 114px;
+            height: 64px;
+        }
+        .course__name {
+            h6 {
+                font-weight: bold;
+            }
+        }
+    }
+}
+
+//switch
+.table__courses .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .table__courses .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .table__courses .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .table__courses .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+ .table__courses input:checked + .slider {
+    background-color: #4dd663;
+  }
+  
+ .table__courses input:focus + .slider {
+    box-shadow: 0 0 1px #4dd663;
+  }
+  
+ .table__courses input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .table__courses .slider.round {
+    border-radius: 34px;
+  }
+  
+  .table__courses .slider.round:before {
+    border-radius: 50%;
+  }
+
+/*----------------------------
+          Users
+ ----------------------------*/
+
+.users__manager {
+    .users__title {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 1%;
+        .add__user{
+            background: #28a745;
+            padding: 15px 35px;
+            color: white;
+            font-weight: bold;
+            border: none;
+        }
+        input {
+            height: 40px;
+            width: 300px;
+            padding: 0 1%;
+        }
+    }
+}
+
+.table__users tr td {
+    &:first-child {
+            img {
+                height: 60px;
+                width: 60px;
+                border-radius: 50%;
+                display: inline-block;
+            }
+            .user__name {
+                margin-left: 5%;
+                margin-top: 2%;
+                display: inline-block;
+                vertical-align: middle;
+                h6 {
+                    font-weight: bold;
+                }
+            }
+            td,
+            th {
+                vertical-align: middle;
+            }
+    }
+    &:last-child button {
+        background: #dc3545;
+        border: none;
+        padding: 1% 3%;
+        color: white;
+        font-weight: bold;
+    }
+}
+
+/*----------------------------
+          Register
+ ----------------------------*/
+
+.messages .messages__titles {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2% 0;
+    h3 {
+        font-weight: bold;
+    }
+    .filter__page {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        width: 20%;
+        .filter__btn {
+            background: dodgerblue;
+            border: none;
+            width: 100px;
+            padding: 2% 0;
+            color: white;
+        }
+    }
+}
+
+.messages__overview {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f6f6f6;
+    padding: 1% 2%;
+    border-radius: 10px;
+    border: 2px solid #e6e6e6;
+    margin-bottom: 2%;
+    .overview {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .overview__image {
+            width: 100px;
+            height: 100px;
+            line-height: 100px;
+            text-align: center;
+            color:dodgerblue;
+            background: rgb(223, 239, 255);
+            font-size: 2.5rem;
+            border: 1px solid rgba(30, 144, 255, .3);
+            border-radius: 50%;
+        }
+        .overview__info {
+            margin-left: 3%;
+            h6 {
+                font-weight: bold;
+                font-size: 1.2rem;
+            }
+            .quantity {
+                 h3 {
+                    font-weight: bold;
+                    span {
+                        font-size: 1.2rem;
+                        opacity: 0.3;
+                    }
+                 }
+            }
+        }
+    }
+    .overview.between {
+        border-left: 2px solid #e6e6e6;
+        border-right: 2px solid #e6e6e6;
+    }
+}
+
+.messages__content {
+    .message__item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        background: #f6f6f6;
+        padding: 1%;
+        border-bottom: 2px solid white;
+        .messages__left {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            .message__avatar {
+                height: 70px;
+                width: 70px;
+                border-radius: 50%;
+                margin: 0 10%;
+                background: white;
+                overflow: hidden;
+                img {
+                    width: 100%;
+                }
+            }
+            h5 {
+                font-weight: bold;
+            }
+        }
+        .messages__right {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            font-weight: bold;
+            p {
+                margin: 0;
+                margin-left: 3%;
+                color: rgba(7, 7, 7, 0.5);
+            }
+        }
+    }
+}

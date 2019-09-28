@@ -1,0 +1,65 @@
+.courses {
+    color: black;
+    .product__items {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        .product__item { 
+            margin: 5px;
+            margin-bottom: 3%;
+            &:nth-child(3),
+            &:nth-child(7),
+            &:nth-child(11),
+            &:nth-child(15),
+            &:nth-child(4),
+            &:nth-child(8),
+            &:nth-child(12),
+            &:nth-child(16) {
+                .sub__info {
+                    left: -165%;
+                    &:before {
+                        left: 96%;
+                    }
+                }
+            }
+        }
+    }
+    .sort__filter {
+        margin: 3% 0;
+        .sort {
+            i {
+                margin-right: 5px;
+                border: 1px solid $color_medium_black;
+                padding: .8em;
+                color: $color_medium_black;
+                cursor: pointer;
+                &:hover {
+                    color: $color_dark_blue;
+                    border-color: $color_dark_blue;
+                }
+            }
+            i.active {
+                color: $color_dark_blue;
+                border-color: $color_dark_blue;
+            }
+            .sort__select {
+                border: 1px solid $color_medium_black;
+                padding: .7em;
+
+            }
+        }
+    }
+    .filter {
+        .showing {
+            border-right: 1px solid $color_black;
+        }
+        .filter__bar {
+            a {
+                color: $color_dark_blue;
+            }
+        }
+    }
+}

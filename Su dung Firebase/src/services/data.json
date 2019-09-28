@@ -1,0 +1,1516 @@
+[
+    {
+        "maKhoaHoc" : "a01",
+        "biDanh" : "a01",
+        "tenKhoaHoc": "Node.js, Express & MongoDB Dev to Deployment",
+        "moTa": "In this 8.5 hour course you will learn by example building 2 real world server-side applications from scratch all the way up to deployment with a real domain. No more confusion about how to build a Node app for production and not just on your localhost.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item1.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a02",
+        "biDanh" : "a02",
+        "tenKhoaHoc": "The Web Developer Bootcamp & Data Analytics",
+        "moTa": "Hi! Welcome to the Web Developer Bootcamp, the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item2.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a03",
+        "biDanh" : "a03",
+        "tenKhoaHoc": "Python for Finance: Investment Fundamentals & Data Analytics",
+        "moTa": "We are proud to present Python for Finance: Investment Fundamentals and Data Analytics – one of the most interesting and complete courses we have created so far. It took our team slightly over four months to create this course, but now, it is ready and waiting for you.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item3.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a04",
+        "biDanh" : "a04",
+        "tenKhoaHoc": "The Complete JavaScript Course 2019: Build Real Projects!",
+        "moTa": "Do you want to learn the number #1 programming language that powers the internet? Are you tired of wasting your time and money on random youtube videos or JavaScript courses that are either too simple, or too difficult to follow? If your answer is a big YES... Then this is exactly the course you are looking for!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item4.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a05",
+        "biDanh" : "a05",
+        "tenKhoaHoc": "Angular Essentials (Angular 2+ with TypeScript)",
+        "moTa": "Angular is an amazing JavaScript (TypeScript) framework which allows you to build small, medium or large Single-Page-Applications (SPAs). Since the code runs entirely in the browser, you can build user experiences which are way faster than traditional websites could ever be!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item5.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a06",
+        "biDanh" : "a06",
+        "tenKhoaHoc": "Build Web Apps with Vue JS 2 & Firebase",
+        "moTa": "If you're looking to get started building full-stack applications with Vue JS and Firebase, then look no further. In this course I'll take you from novice to ninja in Vue JS, starting out with the very basics of VueJS and then moving on towards creating fully-fledged VueJS applications.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item6.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a07",
+        "biDanh" : "a07",
+        "tenKhoaHoc": "Learn Ethical Hacking From Scratch",
+        "moTa": "Welcome this comprehensive course on Ethical Hacking! This course assumes you have NO prior knowledge in hacking and by the end of it you'll be able to  hack systems like black-hat hackers and secure them like security experts!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item7.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a08",
+        "biDanh" : "a08",
+        "tenKhoaHoc": "Learn Flutter & Dart to Build iOS & Android Apps",
+        "moTa": "Flutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is a SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so called widgets) which you can use to compose your user interfaces.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item8.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a09",
+        "biDanh" : "a09",
+        "tenKhoaHoc": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+        "moTa": "Welcome to Advanced CSS and Sass, the most advanced, the most modern, and the most complete CSS course on the internet. It's everything you want in an advanced CSS course, and more. You will learn complex CSS animations, advanced responsive design techniques, flexbox layouts, Sass, CSS architecture, fundamental CSS concepts, and so much more.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item9.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a10",
+        "biDanh" : "a10",
+        "tenKhoaHoc": "AWS Certified Solutions Architect - Associate 2019",
+        "moTa": "Note: Our course material, like the AWS certification exams, are continually evolving. We have released a new version of the 2019 course, with a stronger and deeper focus on architectures in general, high availability, and the services you do need to know in greater depth. For a limited time only, we are making both the 2018 and 2019 versions of the course available to you, at no extra charge.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item10.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a11",
+        "biDanh" : "a11",
+        "tenKhoaHoc": "Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)",
+        "moTa": "Using the latest version of React: 16.8+, this course is focused on efficiency. Never spend time on confusing, out of date, incomplete tutorials anymore. Graduates of Andrei’s courses are now working at Google, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item11.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "reactjs",
+            "tenDanhMucKhoaHoc": "reactjs"
+        }
+    },
+    {
+        "maKhoaHoc" : "a12",
+        "biDanh" : "a12",
+        "tenKhoaHoc": "The Complete React Developer Course (w/ Hooks and Redux)",
+        "moTa": "It’s easy to go down the rabbit hole of libraries and tools only to come out of it not knowing how to build and launch a real-world React application. You get things configured, but you’re not sure how the libraries fit together (or if you’re even using the right one).",
+        "luotXem": 155,
+        "hinhAnh": "/img/item12.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "reactjs",
+            "tenDanhMucKhoaHoc": "reactjs"
+        }
+    },
+    {
+        "maKhoaHoc" : "a13",
+        "biDanh" : "a13",
+        "tenKhoaHoc": "The Modern React Bootcamp (Hooks, Context, NextJS, Router)",
+        "moTa": "Welcome to the best online resource for learning React! Published in April 2019, this course is brand new and covers the latest in React.  This course follows the exact same React curriculum my in-person bootcamp students follow in San Francisco, where students have gone on to get jobs at places like Google, Apple, Pinterest, & Linkedin.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item13.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "reactjs",
+            "tenDanhMucKhoaHoc": "reactjs"
+        }
+    },
+    {
+        "maKhoaHoc" : "a14",
+        "biDanh" : "a14",
+        "tenKhoaHoc": "Master Full-Stack Web Development | Node, SQL, React, & More",
+        "moTa": "This course is the selected highlights of months (years actually) of research. Of reading hundreds of coding articles. Of listening to tech talks. Of building projects at hackathons. Of studying computer science in college. Of working on projects as a software engineer.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item14.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a15",
+        "biDanh" : "a15",
+        "tenKhoaHoc": "Build a Slack Chat App with React, Redux, and Firebase",
+        "moTa": "Throughout this course, we'll be building a live chat app for developers called DevChat, where users will be able to create channels, to send messages to other users on those channels, send media files, see when other users are typing, add emojis to their messages, favorite and unfavorite channels they like or dislike, and get notifications about new messages on other channels. ",
+        "luotXem": 155,
+        "hinhAnh": "/img/item15.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "reactjs",
+            "tenDanhMucKhoaHoc": "reactjs"
+        }
+    }
+    ,
+    {
+        "maKhoaHoc" : "a16",
+        "biDanh" : "a16",
+        "tenKhoaHoc": "React Tutorial and Projects Course",
+        "moTa": "React was released by Facebook's web development team in 2013 as a view library. React is one of the best choices for building modern web applications. React has a slim API, a robust and evolving ecosystem and a great community. In this course we will be learning React by creating various projects.If you want to learn more than just same old tutorial and instead create interesting projects using React.js this course is for you.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item16.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "reactjs",
+            "tenDanhMucKhoaHoc": "reactjs"
+        }
+    },
+    {
+        "maKhoaHoc" : "a17",
+        "biDanh" : "a17",
+        "tenKhoaHoc": "Linux Mastery: Master the Linux Command Line in 11.5 Hours",
+        "moTa": "Thanks Ziyad you become my favorite instructor ever.... I love his teaching style, motivation and energy throughout the course. He breaks thick concepts in smaller pieces and with the examples make it so easy to understand",
+        "luotXem": 155,
+        "hinhAnh": "/img/item17.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a18",
+        "biDanh" : "a18",
+        "tenKhoaHoc": "Graphic Design Masterclass - Learn GREAT Design",
+        "moTa": "You’ll master depth & perspective in Illustrator, creating semi-flat presentations. We’ll set permanent defaults for fonts, colours & learn how to turn hyphenation off once and for all. You'll learn advanced logo design & graphic design techniques.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item18.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "design",
+            "tenDanhMucKhoaHoc": "design"
+        }
+    },
+    {
+        "maKhoaHoc" : "a19",
+        "biDanh" : "a19",
+        "tenKhoaHoc": "Learn JavaScript, Get Hired | The Full Bootcamp",
+        "moTa": "JavaScript frameworks are also the biggest gap between what employers demand, and what candidates can provide. This is because JavaScript still isn't a part of the core curriculum at many universities. Rising software engineers don't have JavaScript skills unless they learn on their own.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item19.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a20",
+        "biDanh" : "a20",
+        "tenKhoaHoc": "Learn Network Hacking From Scratch (WiFi & Wired)",
+        "moTa": "Welcome to my comprehensive course on Network Hacking! In this course, you will start as a beginner with no previous knowledge about penetration testing or hacking and by the end of it you'll be at an intermediate level being able to hack into networks and connected devices like black-hat hackers, not only that but you'll also learn how to secure networks from hackers.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item20.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a21",
+        "biDanh" : "a21",
+        "tenKhoaHoc": "Ultimate AWS Certified Developer Associate 2019",
+        "moTa": "The AWS Certified Developer certification is one of the most challenging exams. It's great at assessing how well you understand not just AWS, but the new cloud paradigms such as Serverless, which makes this certification incredibly valuable to have and pass. Rest assured, I've passed it myself with the score of 984 out of 1000. Yes you read that right, I only made one mistake",
+        "luotXem": 155,
+        "hinhAnh": "/img/item21.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a22",
+        "biDanh" : "a22",
+        "tenKhoaHoc": "The Data Science Course 2019: Complete Data Science Bootcamp",
+        "moTa": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace.    ",
+        "luotXem": 155,
+        "hinhAnh": "/img/item22.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a23",
+        "biDanh" : "a23",
+        "tenKhoaHoc": "Salesforce Platform App Builder Certification Course",
+        "moTa": "Salesforce retired their Developer 401 Certification in September, 2015. Taking its place is the new Salesforce Platform App Builder Certification, which is considered the starting point for Beginner and Aspiring Developers on the Salesforce Platform. This course covers every core concept that you need to understand in order to pass the Platform App Builder Certification Exam.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item23.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a24",
+        "biDanh" : "a24",
+        "tenKhoaHoc": "The Complete Financial Analyst Training & Investing Course",
+        "moTa": "Best Selling Investing Course on Udemy! Welcome to The COMPLETE Financial Analyst Training and Investing Course by the author of the best selling business course on Udemy, an award winning professor, Columbia MBA graduate, former Goldman, hedge fund founder, venture capitalist, TEDx Talk speaker, author & entrepreneur featured in Forbes, Business Insider, Wired and Venture Beat.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item24.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "business",
+            "tenDanhMucKhoaHoc": "business"
+        }
+    },
+    {
+        "maKhoaHoc" : "a25",
+        "biDanh" : "a25",
+        "tenKhoaHoc": "Microsoft Power BI - Up & Running With Power BI Desktop",
+        "moTa": "In this course, you'll be playing the role of Lead Business Intelligence Analyst for Adventure Works Cycles, a global manufacturing company. Your mission? To design and deliver a professional-quality, end-to-end business intelligence solution, armed only with Power BI and a handful of raw csv files.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item25.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "business",
+            "tenDanhMucKhoaHoc": "business"
+        }
+    },
+    {
+        "maKhoaHoc" : "a26",
+        "biDanh" : "a26",
+        "tenKhoaHoc": "PMP Exam Prep Seminar - PMBOK Guide 6",
+        "moTa": "You need to pass the PMP exam and you need quality training that'll help you in your role as a project manager. You also want to learn from an authority in project management, in an online environment with plenty of assignments, videos, and concise explanations. This course provides 35 PDUs and is taught by project management author and expert Joseph Phillips. Joseph is the author of several project ",
+        "luotXem": 155,
+        "hinhAnh": "/img/item26.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "business",
+            "tenDanhMucKhoaHoc": "business"
+        }
+    },
+    {
+        "maKhoaHoc" : "a27",
+        "biDanh" : "a27",
+        "tenKhoaHoc": "Affinity Photo: The Little Box of Tricks",
+        "moTa": "This course is aimed at people who know the basics (although the very basic need to know stuff is covered in a tutorial early on in the course.) The Little Box of Tricks takes a project based approach. Over 8.5 hours, 50 videos and over 25 projects take you through a kaleidoscope of technique. Resources are included when needed, and as well as telling you which buttons to press, I'll tell you why to do things a certain way, along with a few gotchas to watch out for.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item27.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "business",
+            "tenDanhMucKhoaHoc": "business"
+        }
+    },
+    {
+        "maKhoaHoc" : "a28",
+        "biDanh" : "a28",
+        "tenKhoaHoc": "Cinematography Course: Shoot Better Video with Any Camera",
+        "moTa": "This course is designed to teach you the ins and outs of professional cinematography - the art of making motion pictures. While there are plenty of video courses, it's hard to find a comprehensive course that teaches you everything you'd want to know about shooting video.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item28.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "business",
+            "tenDanhMucKhoaHoc": "business"
+        }
+    },
+    {
+        "maKhoaHoc" : "a29",
+        "biDanh" : "a29",
+        "tenKhoaHoc": "Ultimate Google Ads / AdWords Course 2018 - Profit With PPC!",
+        "moTa": "My complete AdWords crash course is going to show you the exact skills and techniques you need to win back your business and drive consistent and profitable traffic to your website around the clock, 7 days a week.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item29.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a30",
+        "biDanh" : "a30",
+        "tenKhoaHoc": "Instagram Marketing 2019: Grow from 0 to 40k in 4 months",
+        "moTa": "Are you tired of courses that just repeat information you could have found on a blog or YouTube? Or maybe you’ve been stuck with instructors that TELL you what to do but have no idea what it takes to really accomplish what they’re teaching? ",
+        "luotXem": 155,
+        "hinhAnh": "/img/item30.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a31",
+        "biDanh" : "a31",
+        "tenKhoaHoc": "Social Media Management - The Complete 2019 Manager Bootcamp",
+        "moTa": "You CAN be your own boss and run your own business - hundreds of thousands of people around the world make an extremely comfortable living by freelancing online. We have been travelling non-stop for almost a year now, exploring the best parts of Europe, and living in a new Airbnb every month.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item31.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a32",
+        "biDanh" : "a32",
+        "tenKhoaHoc": "Growth Hacking with Digital Marketing",
+        "moTa": "Grow your digital marketing results faster through the power of growth hacking! In this industry-leading course, you’ll discover the extraordinary benefits of digital metrics, including lean analytics, web traffic, digital conversion funnels, and LTV and CAC calculations. You’ll also gain access to cutting edge info about inbound marketing, email marketing, SEO, paid acquisition, public relations, viral marketing, and much more!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item32.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a33",
+        "biDanh" : "a33",
+        "tenKhoaHoc": "Understanding TypeScript",
+        "moTa": "In this Course, we'll not stop after the Basics. You will learn about more advanced Features and also how to set up Workflows with TypeScript. This includes a TypeScript-only Workflow as well as Workflows using Gulp or Webpack.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item33.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a34",
+        "biDanh" : "a34",
+        "tenKhoaHoc": "Docker Crash Course for busy DevOps and Developers",
+        "moTa": "This course covers all the fundamentals about Docker software and teach you everything you need to know about developing and deploying modern applications with Docker software. In the end of this course, you will gain in-depth knowledge about Docker software and general DevOps skills to help your company or your own project to apply the right docker workflow and continuously deliver better software.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item34.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a35",
+        "biDanh" : "a35",
+        "tenKhoaHoc": "REST APIs with Flask and Python",
+        "moTa": "Are you tired of boring, outdated, incomplete, or incorrect tutorials? I say no more to copy-pasting code that you don’t understand.Welcome to one of the best resources online on creating REST APIs. I'm Jose, and I'm a software engineer; here to help you truly understand and develop your skills in web and REST API development with Python.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item35.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a36",
+        "biDanh" : "a36",
+        "tenKhoaHoc": "AWS Serverless APIs & Apps - A Complete Introduction",
+        "moTa": "Unlike in traditional web hosting, where you spin up servers, configure them and then deploy your code, in serverless applications, you don't manage any servers! Instead, you only provide your code and define when it should get executed. Done!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item36.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a37",
+        "biDanh" : "a37",
+        "tenKhoaHoc": "Build Websites from Scratch with HTML & CSS",
+        "moTa": "Everyone from aspiring web designers to bloggers, programmers to business owners can benefit from learning some HTML and CSS. Learn to begin building your own dynamic webpages or manage the page that you already have. If you plan on becoming a web programmer or a web designer yourself, HTML and CSS are the first two languages you’ll need to succeed. In fact HTML is required for anyone that wants to get into web development from any angle. Learning it simultaneously with CSS allows you to hit the ground running with page design.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item37.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a38",
+        "biDanh" : "a38",
+        "tenKhoaHoc": "Angular (Full App) with Angular Material, Angularfire & NgRx",
+        "moTa": "There are a lot of courses that dive deeply into Angular but sometimes you just want to build an entire app and see how it all works in practice. And you want to use all these great third-party packages that can add a lot of awesome functionalities to your Angular app!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item38.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a39",
+        "biDanh" : "a39",
+        "tenKhoaHoc": "Node JS: Advanced Concepts",
+        "moTa": "Node Internals: Here's one of the most common interview questions you'll face when looking for a Node job: Can you explain Node's Event Loop? There are two types of engineers: those who can describe the Event Loop and those who cannot!  This course will ensure that you are incredibly well prepared to answer that most important question.  Besides being critical for interviews, knowledge of the Event Loop will give you a better understanding of how Node works internally.  Many engineers know not to 'block' the Event Loop, but they don't necessarily understand why.  You will be one of the engineers who can clearly articulate the performance profile of Node and its Event Loop.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item39.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a40",
+        "biDanh" : "a40",
+        "tenKhoaHoc": "Django 2.2 & Python | The Ultimate Web Development Bootcamp",
+        "moTa": "Have you ever wanted to create a Web application but didn't know where to start? Have you previously tried to learn Django but got fed up with incomplete YouTube videos and poorly written tutorials? Or are you looking to move your code from Django 1 to Django 2?",
+        "luotXem": 155,
+        "hinhAnh": "/img/item40.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a41",
+        "biDanh" : "a41",
+        "tenKhoaHoc": "Nuxt.js - Vue.js on Steroids",
+        "moTa": "Vue.js is an amazing JavaScript framework which you can use to build highly engaging user interfaces and single page applications. You can join my bestselling course on Vue.js, here on Udemy, if you want to learn more about this awesome framework!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item41.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a42",
+        "biDanh" : "a42",
+        "tenKhoaHoc": "PHP OOP: Object Oriented Programming for beginners + Project",
+        "moTa": "I understand everything. I have finished the course without any problem. I felt Edwin like my brother - he is very good teacher and very good person - always positive and inspired me to continue forward. Really recommend his lessons for people who search for a change, for knowledge and want to upgrade their live to another level. Thanks Edwin. I'm moving forward to the next course with Laravel.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item42.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a43",
+        "biDanh" : "a43",
+        "tenKhoaHoc": "Advanced JavaScript Concepts",
+        "moTa": "This course is unlike any JavaScript course you will find online. After many years of working with the language, Andrei has taken decades of experience, combining best practices from some of the top developers in the world, to get you to become one of the top performing Javascript developers. You will go from understanding the basics of JavaScript, to learning it to the point that you can teach it to others, impress coworkers, and wow future employers. You will be in the top 10% of JavaScript Programmers by the end of this course.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item43.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a44",
+        "biDanh" : "a44",
+        "tenKhoaHoc": "ChatBots: Messenger ChatBot - DialogFlow and nodejs",
+        "moTa": "Do you want to build a chatbot, so a bot that can talk? Yes a bot that can talk to your friends or customers or fans while you sleep or do something else. You can make one for your customer that keep on asking the same questions. Or if you have a community for your fans and followers that want to know your personal details. Use your imagination, any time you have to reply the same thing over and over again, someone else like a bot can do it for you. ",
+        "luotXem": 155,
+        "hinhAnh": "/img/item44.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a45",
+        "biDanh" : "a45",
+        "tenKhoaHoc": "Electron for Desktop Apps: The Complete Developer's Guide",
+        "moTa": "In the last 10 years there has been a tremendous shift from desktop to mobile, true, but the result is that there is a huge opportunity to create desktop apps, as all other developers have shifted over to building mobile!  You can easily get into the front page on the MacOS store with an app you spend a few days building - this would never happen on mobile!  The last app you'll build in this course can be easily tweaked into a front-page app.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item45.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a46",
+        "biDanh" : "a46",
+        "tenKhoaHoc": "Vue JS 2.0 - Mastering Web Apps",
+        "moTa": "Become an in-demand software engineer by taking this tutorial on Vue Js. As one of the fastest growing frameworks for web development, learning Vue is a must. Simply put, understanding Vue will open doors and jobs for you.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item46.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a47",
+        "biDanh" : "a47",
+        "tenKhoaHoc": "The Docker for DevOps course: From development to production",
+        "moTa": "Update: Added a new bonus lecture that covers updating the examples in this course to work with Docker v18.09+ along with the latest Docker Compose.Looking to level up your skills by deploying your own web application? How about furthering your career by picking up years worth of general DevOps skills?",
+        "luotXem": 155,
+        "hinhAnh": "/img/item47.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a48",
+        "biDanh" : "a48",
+        "tenKhoaHoc": "Modern JavaScript (from Novice to Ninja)",
+        "moTa": "Hey gang, and welcome to your first step on the path to becoming a JavaScript ninja! In this course I'll be teaching you my absolute favourite language (JavaScript!) from the very beginning, right through to creating fully-fledged, dynamic & interactive web experiences.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item48.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a49",
+        "biDanh" : "a49",
+        "tenKhoaHoc": "All about NodeJS",
+        "moTa": "NodeJS is a platform that allows developers to write server side high performance and networked applications. And that too using good old Javascript. But wait ! Isn't Javascript meant to be used for forms and stuff on web pages ?",
+        "luotXem": 155,
+        "hinhAnh": "/img/item49.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a50",
+        "biDanh" : "a50",
+        "tenKhoaHoc": "Machine Learning with Javascript",
+        "moTa": "In the coming years, there won't be a single industry in the world untouched by Machine Learning.  A transformative force, you can either choose to understand it now, or lose out on a wave of incredible change.  You probably already use apps many times each day that rely upon Machine Learning techniques.  So why stay in the dark any longer?",
+        "luotXem": 155,
+        "hinhAnh": "/img/item50.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a51",
+        "biDanh" : "a51",
+        "tenKhoaHoc": "Learn AngularJS Step By Step",
+        "moTa": "This course is covering some of the important Angular JS concepts with practical codes and most of useful directives and services are covered in this. We have also covered Angular JS routing with Single Page Application in last section of this series.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item51.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a52",
+        "biDanh" : "a52",
+        "tenKhoaHoc": "RxJs 6 In Practice (with FREE E-Book)",
+        "moTa": "And this is because RxJs and Reactive Programming have a steep learning curve that makes it hard to just jump in into an existing program and learn these concepts by example. With RxJs that approach will simply not work. Instead, we need to start at the beginning and learn some baseline reactive design concepts first.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item52.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a53",
+        "biDanh" : "a53",
+        "tenKhoaHoc": "The Ultimate Web Developer How To Guide",
+        "moTa": "Did you know that you can make an extra income online by learning the skills presented in this course! Whether you want to earn extra income, change your career or want to launch your own web business this is the course for you. You can begin to earn money online by while you're learning and practicing web development.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item53.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a54",
+        "biDanh" : "a54",
+        "tenKhoaHoc": "The Bootstrap 4 Bootcamp",
+        "moTa": "This course will take you from a complete beginner to a Bootstrap 4 expert in a matter of hours!  Or, if you already know Bootstrap 3, this course will serve a complete guide to all the new changes and improvements in Bootstrap 4. By the time we're done, you'll master every single component, the powerful grid system, and the brand-new utility classes. By then end of the course we'll be building complete, responsive websites that looks great on all devices. We'll learn to write and compile SASS to customize our own version of Bootstrap. In addition, since Bootstrap 4 is now built on top of Flexbox, we spend a lot of time learning the ins and outs of Flexbox along the way!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item54.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a55",
+        "biDanh" : "a55",
+        "tenKhoaHoc": "The Essential Web Developer Course - Build 12 Websites",
+        "moTa": "In this course, you will learn the skills required to become a professional Web developer from the ground up. I'm so confident that you will be 100% satisfied with your experience, that I'm offering a complete 30-day money back guarantee!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item55.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a56",
+        "biDanh" : "a56",
+        "tenKhoaHoc": "Build a Backend REST API with Python & Django - Advanced",
+        "moTa": "Whether you’re a freelance programmer, tech entrepreneur, or just starting out building backends - this course will help lay the foundation of your knowledge base and give you the tools to advance your skills with some of the most in-demand programming languages today.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item56.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "marketing",
+            "tenDanhMucKhoaHoc": "marketing"
+        }
+    },
+    {
+        "maKhoaHoc" : "a57",
+        "biDanh" : "a57",
+        "tenKhoaHoc": "Node.js, Express & MongoDB Dev to Deployment",
+        "moTa": "In this 8.5 hour course you will learn by example building 2 real world server-side applications from scratch all the way up to deployment with a real domain. No more confusion about how to build a Node app for production and not just on your localhost.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item1.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a58",
+        "biDanh" : "a58",
+        "tenKhoaHoc": "The Web Developer Bootcamp & Data Analytics",
+        "moTa": "Hi! Welcome to the Web Developer Bootcamp, the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item2.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a59",
+        "biDanh" : "a59",
+        "tenKhoaHoc": "Python for Finance: Investment Fundamentals & Data Analytics",
+        "moTa": "We are proud to present Python for Finance: Investment Fundamentals and Data Analytics – one of the most interesting and complete courses we have created so far. It took our team slightly over four months to create this course, but now, it is ready and waiting for you.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item3.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a60",
+        "biDanh" : "a60",
+        "tenKhoaHoc": "The Complete JavaScript Course 2019: Build Real Projects!",
+        "moTa": "Do you want to learn the number #1 programming language that powers the internet? Are you tired of wasting your time and money on random youtube videos or JavaScript courses that are either too simple, or too difficult to follow? If your answer is a big YES... Then this is exactly the course you are looking for!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item4.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a61",
+        "biDanh" : "a61",
+        "tenKhoaHoc": "Angular Essentials (Angular 2+ with TypeScript)",
+        "moTa": "Angular is an amazing JavaScript (TypeScript) framework which allows you to build small, medium or large Single-Page-Applications (SPAs). Since the code runs entirely in the browser, you can build user experiences which are way faster than traditional websites could ever be!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item5.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a62",
+        "biDanh" : "a62",
+        "tenKhoaHoc": "Build Web Apps with Vue JS 2 & Firebase",
+        "moTa": "If you're looking to get started building full-stack applications with Vue JS and Firebase, then look no further. In this course I'll take you from novice to ninja in Vue JS, starting out with the very basics of VueJS and then moving on towards creating fully-fledged VueJS applications.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item6.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a63",
+        "biDanh" : "a63",
+        "tenKhoaHoc": "Learn Ethical Hacking From Scratch",
+        "moTa": "Welcome this comprehensive course on Ethical Hacking! This course assumes you have NO prior knowledge in hacking and by the end of it you'll be able to  hack systems like black-hat hackers and secure them like security experts!",
+        "luotXem": 155,
+        "hinhAnh": "/img/item7.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a64",
+        "biDanh" : "a64",
+        "tenKhoaHoc": "Learn Flutter & Dart to Build iOS & Android Apps",
+        "moTa": "Flutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is a SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so called widgets) which you can use to compose your user interfaces.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item8.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a65",
+        "biDanh" : "a65",
+        "tenKhoaHoc": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+        "moTa": "Welcome to Advanced CSS and Sass, the most advanced, the most modern, and the most complete CSS course on the internet. It's everything you want in an advanced CSS course, and more. You will learn complex CSS animations, advanced responsive design techniques, flexbox layouts, Sass, CSS architecture, fundamental CSS concepts, and so much more.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item9.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a66",
+        "biDanh" : "a66",
+        "tenKhoaHoc": "AWS Certified Solutions Architect - Associate 2019",
+        "moTa": "Note: Our course material, like the AWS certification exams, are continually evolving. We have released a new version of the 2019 course, with a stronger and deeper focus on architectures in general, high availability, and the services you do need to know in greater depth. For a limited time only, we are making both the 2018 and 2019 versions of the course available to you, at no extra charge.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item10.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "software",
+            "tenDanhMucKhoaHoc": "software"
+        }
+    },
+    {
+        "maKhoaHoc" : "a67",
+        "biDanh" : "a67",
+        "tenKhoaHoc": "Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)",
+        "moTa": "Using the latest version of React: 16.8+, this course is focused on efficiency. Never spend time on confusing, out of date, incomplete tutorials anymore. Graduates of Andrei’s courses are now working at Google, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item11.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a68",
+        "biDanh" : "a68",
+        "tenKhoaHoc": "The Complete React Developer Course (w/ Hooks and Redux)",
+        "moTa": "It’s easy to go down the rabbit hole of libraries and tools only to come out of it not knowing how to build and launch a real-world React application. You get things configured, but you’re not sure how the libraries fit together (or if you’re even using the right one).",
+        "luotXem": 155,
+        "hinhAnh": "/img/item12.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a69",
+        "biDanh" : "a13",
+        "tenKhoaHoc": "The Modern React Bootcamp (Hooks, Context, NextJS, Router)",
+        "moTa": "Welcome to the best online resource for learning React! Published in April 2019, this course is brand new and covers the latest in React.  This course follows the exact same React curriculum my in-person bootcamp students follow in San Francisco, where students have gone on to get jobs at places like Google, Apple, Pinterest, & Linkedin.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item13.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a70",
+        "biDanh" : "a70",
+        "tenKhoaHoc": "Master Full-Stack Web Development | Node, SQL, React, & More",
+        "moTa": "This course is the selected highlights of months (years actually) of research. Of reading hundreds of coding articles. Of listening to tech talks. Of building projects at hackathons. Of studying computer science in college. Of working on projects as a software engineer.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item14.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    },
+    {
+        "maKhoaHoc" : "a71",
+        "biDanh" : "a71",
+        "tenKhoaHoc": "Build a Slack Chat App with React, Redux, and Firebase",
+        "moTa": "Throughout this course, we'll be building a live chat app for developers called DevChat, where users will be able to create channels, to send messages to other users on those channels, send media files, see when other users are typing, add emojis to their messages, favorite and unfavorite channels they like or dislike, and get notifications about new messages on other channels. ",
+        "luotXem": 155,
+        "hinhAnh": "/img/item15.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    }
+    ,
+    {
+        "maKhoaHoc" : "a72",
+        "biDanh" : "a72",
+        "tenKhoaHoc": "React Tutorial and Projects Course",
+        "moTa": "React was released by Facebook's web development team in 2013 as a view library. React is one of the best choices for building modern web applications. React has a slim API, a robust and evolving ecosystem and a great community. In this course we will be learning React by creating various projects.If you want to learn more than just same old tutorial and instead create interesting projects using React.js this course is for you.",
+        "luotXem": 155,
+        "hinhAnh": "/img/item16.jpg",
+        "maNhom": "GP01",
+        "ngayTao": "10/10/2019",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "Admin",
+            "hoTen": "Hoang An",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "development",
+            "tenDanhMucKhoaHoc": "development"
+        }
+    }
+]

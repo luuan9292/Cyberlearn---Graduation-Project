@@ -1,0 +1,174 @@
+.events {
+    font-family: 'Roboto', sans-serif;
+    background: url("/img/event-bg-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+    z-index: 100;
+    .countdown__wrapper {
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        .countdown__event {
+            .countdown__timer {
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+                font-weight: 700;
+                .countdown__section {
+                    margin-right: 4rem;
+                    .countdown__amount {
+                        font-size: 4rem;
+                    }
+                    .countdown__days {
+                        color: #fff200;
+                    }
+                    .countdown__hours {
+                        color: #ff8a00;
+
+                    }
+                    .countdown__minutes {
+                        color: #00b9ff;
+
+                    }
+                    .countdown__seconds {
+                        color: #8dc63f;
+
+                    }
+                    .countdown__period {
+                        font-size: 1.5rem;
+                        margin-top: -1rem;
+                    }
+                }
+                
+            }
+            .countdown__title {
+                margin: 1rem 0;
+                font-weight: 900;
+                line-height: 1.2;
+                font-size: 4rem;
+            }
+            .countdown__subtitle {
+                font-weight: 700;
+            }
+        }
+    }
+}
+
+.ticket {
+    font-family: 'Roboto', sans-serif;
+    padding: 6% 0;
+    background-color: $color_white;
+    .ticket__wrapper {
+        .ticket__left {
+            .ticket__image {
+                width: 100%;
+                img{
+                    width: 100%;
+                }
+            }
+        }
+        .ticket__right {
+            .ticket__content {
+                .ticket__title {
+                    font-weight: 700;
+                    font-size: 2.2rem;
+                    color: #92278f;
+                }
+                .ticket__sub__title {
+                    font-size: 1.5rem;
+                    font-weight: 700;
+                    color: #0a0a0a;
+                }
+            }
+            p {
+                font-weight: 400;
+                color: #333;
+                font-size: 1rem;
+                padding: 3% 0;
+            }
+            .buy__btn {
+                margin-right: 2%;
+                border-radius: 5px;
+                @include btn__default(#92278f, $color_white, none, 135px, 46px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    color: $color_white;
+                }
+            }
+            .knowmore__btn {
+                border-radius: 5px;
+                @include btn__default(rgb(111, 173, 36), $color_white, none, 135px, 46px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    color: $color_white;
+                }
+            }
+        }
+    }
+}
+
+.events_speaker {
+    font-family: 'Roboto', sans-serif;
+    background: url("/img/event-bg-2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 130vh;
+    position: relative;
+    z-index: 100;
+    padding: 5% 0;
+    .speaker__title {
+        margin: 0 0 40px 0;
+        font-weight: 700;
+        font-size: 2.5rem;
+        color: #ffffff;
+        text-align: center;
+        width: 100%;
+    }
+    .speakers {
+        .speaker {
+            .speaker__image {
+                width: 100%;
+                img {
+                    width: 100%;
+                }
+            }
+            .speaker__info {
+                margin: 10% 0;
+                h5 {
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+    .events__subscripe {
+        text-align: center;
+        width: 35%;
+        margin: 4% auto;
+        h4 {
+            font-weight: bold;
+            font-size: 2rem;
+        }
+        input { 
+            width: 100%;
+            padding: 2% 3%;
+            border-radius: 5px;
+            outline: none;
+            border: none;
+        }
+        .subscribe__btn {
+            border-radius: 5px;
+                @include btn__default(#cbd504, $color_black, none, 135px, 46px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    color: $color_white;
+                }
+        }
+
+    }
+}
+

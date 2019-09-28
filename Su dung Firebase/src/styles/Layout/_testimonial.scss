@@ -1,0 +1,66 @@
+.testimonial {
+    .testi__top {
+        background: url("/img/testimonial.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 35vh;
+        margin-top: 3%;
+        .testi__wrapper {
+            display: flex;
+            justify-content: flex-start;
+            color: $color_medium_black;
+            margin-top: 15%;
+            .testi__img {
+                width: 40%;
+                margin-right: 5%;
+                img {
+                    width: 100%;
+                }
+            }
+            .testi__info {
+                h6 {
+                    font-weight: bold;
+                    font-size: .9rem;
+                }
+                p {
+                    font-size: .9rem;
+                }
+                .rating {
+                    color: $color_orange;
+                }
+            }
+        }
+    }
+    .testi__bot {
+        background: $color_dark_orange;
+        padding: 2% 0;
+        .bot__left {
+            .bot__wrapper {
+                display: flex;
+                .bot__icon {
+                    margin-right: 3%;
+                    span {
+                        font-size: 3.5rem;
+                    }
+                }
+                .bot__info {
+                    h6 {
+                        font-size: 1.1rem;
+                        font-weight: bold;
+                    }
+                    p {
+                        font-size: .9rem;
+                        margin: 0;
+                    }
+                }
+            }
+        }
+        .bot__right {
+            text-align: right;
+            button {
+                @include btn__default($color_white, $color_dark_orange, 2px solid $color_white, 216px, 45px, .9rem);
+            }
+        }
+    }
+}

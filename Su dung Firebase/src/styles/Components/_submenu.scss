@@ -1,0 +1,160 @@
+.scroll__menu {
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    background-color: $color_white;
+    border-bottom: 1px solid $color_border;
+    animation-name: appear;
+    animation-duration: 1s;
+
+    @keyframes appear {
+        0% {
+            top: -10%;
+        }
+        100% {
+            top: 0%;
+        }
+    }
+
+    .scroll__menu__wrapper {
+        align-items: center;
+
+        .logo {
+            padding: 1.3% 1%;
+            cursor: pointer;
+        }
+        .sub_nav {
+            .nav {
+                .nav-item {
+                    position: relative;
+                    a {
+                        font-weight: bold;
+                        color: $color_medium_black;
+                        &:hover {
+                            color: $color_light_black;
+                        }
+                    }
+                    a.true {
+                        color: $color_orange;
+                    }
+                    .submenu__wrapper {
+                        position: absolute;
+                        top: 60%;
+                        right: 0%;
+                        height: 50%;
+                        width: 100%;
+                        visibility: hidden;
+                        background-color: transparent;
+                        .submenu {
+                            box-sizing: unset;
+                            position: absolute;
+                            top: 350%;
+                            left: 0%;
+                            height: auto;
+                            width: 180px;
+                            background-color: $color_dark_white;
+                            padding: 16px;
+                            visibility: hidden;
+                            z-index: 3000;
+                            transition: all 0.2s;
+                            .sub__menu {
+                                ul {
+                                    list-style: none;
+                                    li {
+                                        color: $color_black;
+                                        text-align: left;
+                                        padding: 5% 0;
+                                        padding-left: 5%;
+                                        border-bottom: 1px solid rgb(214, 214, 214);
+                                        &:hover {
+                                            background-color: $color_orange;
+                                            color: $color_white;
+                                            cursor: pointer;
+                                        }
+                                    }
+                                    li:last-child {
+                                        border-bottom: none;
+                                    }
+                                }
+                                &:before {
+                                    position: absolute;
+                                    content: "";
+                                    width: 20px;
+                                    height: 20px;
+                                    top: -20%;
+                                    left: 15%;
+                                    background: $color_dark_white;
+                                    transform: rotate(45deg);
+                                    border-right: none;
+                                    border-bottom: none;
+                                    z-index: 10;
+                                }
+                            }
+                        }
+                    }
+                    &:hover {
+                        .submenu {
+                            top: 90%;
+                            left: 0%;
+                            opacity: 1;
+                            visibility: visible;
+                        }
+                    }
+                }
+            }
+        }
+        // .scroll__sigin {
+        //     .login {
+        //         margin-right: 1%;
+        //         button {
+        //             @include btn__default(transparent, $color_black, 1px solid $color_black, 70px, 35px, .8rem);
+        //             &:active {
+        //                 background-color: $color_black;
+        //             }
+        //         }
+        //     }
+        //     .signup {
+        //         button {
+        //             @include btn__default($color_red, $color_white, none, 70px, 35px, .8rem);
+        //             &:active {
+        //                 background-color: $color_black;
+        //             }
+        //         }
+        //     }
+        // }
+        .menu__right {
+            color: black;
+            .cart,
+            .noti {
+                .lnr {
+                    color: $color_medium_black;
+                }
+                &:hover {
+                    background-color: rgb(233, 233, 233);
+                    border: 1px solid rgb(202, 202, 202);
+                }
+            }
+            .login {
+                button {
+                    @include btn__default(transparent, $color_medium_black, 1px solid $color_medium_black, 70px, 35px, 0.8rem);
+                    &:active {
+                        background-color: $color_black;
+                    }
+                }
+            }
+            .signup {
+                button {
+                    @include btn__default($color_red, $color_white, none, 70px, 35px, 0.8rem);
+                    &:active {
+                        background-color: $color_black;
+                    }
+                }
+            }
+            .admin__panel {
+                .lnr {
+                    color: $color_medium_black;
+                }
+            }
+        }
+    }
+}

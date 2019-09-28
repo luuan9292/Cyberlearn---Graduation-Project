@@ -1,0 +1,173 @@
+.about__header {
+    font-family: 'Roboto', sans-serif;
+    // margin-top: -3%;
+    .header__wrapper {
+        .banner {
+            background: url("/img/about-bg.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            height: 70vh;
+        }
+        .about__meta {
+            display: flex;
+            justify-content: flex-start;
+            padding: 3% 5%;
+            .meta__icon {
+                font-size: 4rem;
+            }
+            .meta__info {
+                margin-left: 3rem;
+                h2 {
+                    font-weight: bold;
+                }
+            }
+        }
+        .meta__purple {
+            background: linear-gradient(45deg, #992e6b 0%,#ce4192 100%);
+        }
+        .meta__red {
+            background: linear-gradient(45deg, #fb3461 0%,#fd5443 100%);
+        }
+        .meta__orange {
+            background: linear-gradient(45deg, #ff7925 0%,#febe09 100%);
+        }
+    }
+}
+.about__us {
+    margin: 5% 0;
+    color: $color_black;
+    .contact_content {
+        h4 {
+            font-weight: bold;
+        }
+        .blockquote {
+            margin: 5% 0;
+            font-size: .9rem;
+            position: relative;
+            color: #848484;
+            font-style: italic;
+            font-size: 1rem;
+            line-height: 25px;
+            text-indent: 5%;
+            &:before {
+                content: "\201C";
+                position: absolute;
+                font-size: 2.5rem;
+                top: 0;
+                left: -5px;
+                font-weight: bold;
+              }
+        }
+        .contact__btn {
+            @include btn__default(transparent, $color_medium_black, 1px solid $color_medium_black, 40%, 46px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    color: $color_white;
+                }
+        }
+    }
+}
+
+.certification {
+    background: url("/img/about-bg2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 45vh;
+    .certi__title {
+        text-align: center;
+        padding: 5% 0;
+        h3 {
+            font-weight: bold;
+        }
+        p {
+             font-size: .9rem;
+        }
+    }
+    .certi__content {
+        text-align: center;
+        h6 {
+            font-weight: bold;
+            margin-bottom: 5%;
+        }
+        p {
+            font-size: .9rem;
+       }
+    }
+    .certi__button {
+        text-align: center;
+        margin-top: 3%;
+        .certi__btn {
+            @include btn__default(transparent, $color_white, 2px solid $color_white, 20%, 46px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    border: none;
+                }
+        }
+    }
+}
+
+.team {
+    margin: 5% 0;
+    color: $color_black;
+    h4 {
+        font-weight: bold;
+        padding: 2% 0;
+    }
+    h5 {
+        font-weight: bold;
+        font-size: 1.1rem;
+        margin: 2%;
+      }
+    .team__item {
+        border: 1px solid #ebebeb;
+        .team__image {
+            position: relative;
+            overflow: hidden;
+            img {
+                width: 100%;
+                transition: all .4s;
+              }
+              .team__social {
+                position: absolute;
+                bottom: -18%;
+                left: 2%;
+                width: 96%;
+                background-color: #f1f1f1;
+                transition: all .4s;
+                z-index: 100;
+                i {
+                    padding: 4%;
+                  }
+              }
+          }
+          .team__image:hover {
+            img {
+                transform: scale(1.1);
+            }
+            .team__social {
+                bottom: 2%;
+            }
+          }
+          .team__image:before {
+            content: '';
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            background: rgba(0, 0, 0, 0);
+            z-index: 10;
+          }
+          .team__image:hover:before {
+            background-color: rgba(0, 0, 0, 0.3);
+          }
+    }
+    .team__content {
+        padding: 5%;
+        p {
+            color: #848484;
+            font-style: italic;
+          }
+      }
+  }
+

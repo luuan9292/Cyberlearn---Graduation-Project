@@ -1,0 +1,110 @@
+.search__box {
+    margin: 0;
+    width: 100%;
+
+    .search__menu{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+        z-index: 100;
+
+        li {
+            margin-right: 5px;
+        }
+        select, 
+        input {
+            width: 305px;
+            height: 50px;
+            outline: none;
+            border: none;
+            padding-left: 5%;
+            border: 1px solid #c4c4c4;
+        }
+        .search__button {
+            @include btn__default($color_blue, $color_white, none, 205px, 50px, 1.1rem);
+            &:active {
+                background-color: $color_black;
+            }
+        }
+        a {
+            text-decoration: none;
+        }
+        li {
+            input:focus ~ .search__result {
+                visibility: visible;
+                .search__form {
+                    visibility: visible;
+                    opacity: 1;
+                }
+            }
+            .search__result {
+                color:black;
+                position: absolute;
+                top: 100%;
+                left: 0%;
+                height: 30%;
+                width: 100%;
+                z-index: 1;
+                visibility: hidden;
+                background-color: transparent;;
+                z-index: 100;
+                .search__form {
+                    position: absolute;
+                    top: 20%;
+                    right: 19%;
+                    background-color: #f6f6f6;
+                    padding: 1%;
+                    width: 40%;
+                    height: auto;
+                    border-bottom-left-radius: 12px;
+                    border-bottom-right-radius: 12px;
+                    visibility: hidden;
+                    opacity: 0;
+                    transition: 0.5s;
+                    text-align: left;
+                    z-index: 100;
+                    .search__form__item {
+                        width :100%;
+                        display: flex;
+                        font-weight: bold;
+                        margin-bottom: 5%;
+                        padding: 0 2%;
+                        border-bottom: 1px solid $color_border;
+                        .search__image {
+                            width: 40%;
+                            img {
+                                width: 100%;
+                                height: 80%;;
+                            }
+                        }
+                        .form__info {
+                            width: 60%;
+                            margin-left: 3%;
+                            h6 {
+                                font-size: .9rem;
+                                font-weight: bold;
+                            }
+                            p {
+                                font-size: .8rem;
+                                color: $color_medium_black;
+                                font-weight: 400;
+                            }
+                        }
+                        
+                    }
+                }
+            }
+            
+            .search__result.hiddenForm {
+                display: none;
+            }
+            
+            
+        }
+    }
+}
+
+
+ 

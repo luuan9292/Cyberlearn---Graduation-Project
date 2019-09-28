@@ -1,0 +1,57 @@
+.pageheader {
+    position: relative;
+    color: $color_medium_black;
+    .bottom__bar {
+        .menu__left{
+            .nav{
+                .nav-item {
+                    a {
+                        color: $color_medium_black;
+                        font-weight: bold;
+                        &:hover {
+                            color: $color_orange;
+                        }
+                    }
+                }
+            }
+        }
+        .menu__right {
+            .cart,
+            .noti {
+                &:hover {
+                    background-color: rgb(233, 233, 233);
+                    border: 1px solid rgb(202, 202, 202);
+                }
+            }
+            .cart__wrapper {
+                .cart__list {
+                    -webkit-box-shadow: -2px 3px 21px -4px rgba(0,0,0,0.75);
+                    -moz-box-shadow: -2px 3px 21px -4px rgba(0,0,0,0.75);
+                    box-shadow: -2px 3px 21px -4px rgba(0,0,0,0.75);
+                }
+            }
+            .login {
+                button {
+                    @include btn__default(transparent, $color_medium_black, 1px solid $color_medium_black, 70px, 35px, .8rem);
+                    &:active {
+                        background-color: $color_black;
+                    }
+                }
+            }
+            .signup {
+                button {
+                    @include btn__default($color_red, $color_white, none, 70px, 35px, .8rem);
+                    &:active {
+                        background-color: $color_black;
+                    }
+                }
+            }
+            .admin__panel { 
+                .lnr {
+                    color: $color_medium_black;
+
+                }
+            }
+        }
+    }
+}

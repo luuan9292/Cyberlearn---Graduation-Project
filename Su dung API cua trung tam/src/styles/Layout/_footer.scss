@@ -1,0 +1,102 @@
+.footer {
+    background: #464849;
+    padding: 3% 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 556.32px;
+    z-index: -100;
+    h5 {
+        font-weight: bold;
+        margin-bottom: 7%;
+    }
+    ul {
+        list-style: none;
+        li {
+            font-size: .9rem;
+            color: $color_light_white;
+        }
+    }
+    .about {
+        p {
+            font-size: .9rem;
+            color: $color_light_white;
+            margin-bottom: 8%;
+        }
+        ul {
+            li {
+                display: flex;
+                align-items: center;
+                margin-bottom: 6%;
+                .lnr {
+                    font-size: 1.3rem;
+                    border: 1px solid $color_light_white;
+                    padding: 8px;
+                    border-radius: 50%;
+                    margin-right: 3%;
+                }
+            }
+        }
+    }
+    .new {
+        ul {
+            li {
+                margin-bottom: 6%;
+                i {
+                    color: $color_dark_orange;
+                }
+            }
+        }
+    }
+    .working {
+        ul {
+            li {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border-bottom: 1px solid $color_light_white;
+                margin-bottom: 1%;
+                padding: 2% 0;
+                .closed {
+                    background: $color_blue;
+                    color: $color_white;
+                    padding: 3px 5px;
+                }
+            }
+            li:last-child {
+                border-bottom: none;
+            }
+        }
+    }
+    .tags {
+        .tag {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            flex-wrap: wrap;
+            div {
+                font-size: .8rem;
+                border: 1px solid $color_light_white;
+                padding: 7px;
+                margin: 1%;
+                white-space: nowrap;
+            }
+        }
+
+    }
+    .copyright {
+        border-top: 1px solid rgba(255,255,255,0.07);
+        align-items: center;
+        padding-top: 4%;
+        margin-top: 3%;
+        color: $color_light_white;
+        div:last-child {
+            text-align: right;
+        }
+    }
+}
+
+.footerpage {
+    position: relative;
+}

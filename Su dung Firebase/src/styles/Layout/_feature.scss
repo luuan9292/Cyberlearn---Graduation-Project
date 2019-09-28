@@ -1,0 +1,93 @@
+.feature {
+    margin-top: 3%;
+    .feature__wrapper {
+        .feature__content {
+            .feature__left{
+                .feature__box {
+                    background-color: $color_blue;
+                    padding: 10%;
+                    margin-right: 3%;
+                    height: 506px;
+                    h3 {
+                        font-weight: bold;
+                    }
+                    p {
+                        margin: 7% 0;
+                        font-size: .9rem;
+                        span {
+                            font-weight: bold;
+                        }
+                    }
+                    ul {
+                        list-style: none;
+                        li {
+                            margin-bottom: 5%;
+                            font-weight: bold;
+                            i {
+                                margin-right: 3%;
+                            }
+                        }
+                        
+                    }
+                }
+            }
+            .feature__middle {
+                padding-right: 2.5%;
+
+                .feature__box {
+                    padding-top: 9%;
+                    padding-left: 10%;
+                    margin-bottom: 6%;
+                    height: 242px;
+                    h6:first-child {
+                        font-weight: bold;
+                        font-size: 1.1rem;
+                    }
+                    p {
+                        font-size: .9rem;
+                        margin-bottom: 4%;
+                    }
+                    h1 {
+                        font-weight: bold;
+                    }
+                }
+                .feature__box:first-child {
+                    background-color: $color_light_orange;
+                    padding-right: 35%;
+                }
+                .feature__box:last-child {
+                    background: $color_light_orange url(/img/banner-01.png) no-repeat right bottom;
+                    padding-right: 35%;
+                }
+            }
+            .feature__right {
+                padding-left: 2.5%;
+                .feature__box {
+                    padding-top: 9%;
+                    padding-left: 10%;
+                    margin-bottom: 6%;
+                    height: 242px;
+                    
+                    h6:first-child {
+                        font-weight: bold;
+                    }
+                    p {
+                        font-size: .9rem;
+                        margin-bottom: 4%;
+                    }
+                    h1 {
+                        font-weight: bold;
+                    }
+                }
+                .feature__box:first-child {
+                    background: $color_dark_blue url(/img/banner-02.png) no-repeat right bottom;
+                    padding-right: 35%;
+                }
+                .feature__box:last-child {
+                    background-color: $color_purple;
+                    padding-right: 15%;
+                }
+            }
+        }
+    }
+}

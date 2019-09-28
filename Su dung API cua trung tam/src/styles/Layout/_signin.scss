@@ -1,0 +1,130 @@
+.signin__component {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: rgba(41,48,59,.8);
+    height: 100vh;
+    .signin__wrapper {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width:380px;
+        height: auto;
+        background-color: $color_white;
+        color: $color_medium_black;
+        border: none;
+        border-radius: 6px;
+        box-shadow: 0 0 1px 1px rgba(20,23,28,.1), 0 3px 1px 0 rgba(20,23,28,.1);
+        outline: 0;
+        .singin__title {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 7%;
+            border-bottom: 1px solid $color_border;
+            h6 {
+                font-weight: bold;
+                color: $color_medium_black;
+                margin: 0;
+            }
+            span {
+                font-weight: bold;
+                font-size: 1.5rem;
+                cursor: pointer;
+                &:hover {
+                    opacity: 0.5;
+                }
+            }
+        }
+        .sigin__form {
+            padding: 7%;
+            .fg__sigin {
+                    padding: 3% 0;
+                    background-color: #3b5999;
+                    text-decoration: none;
+                    width: 100%;
+                    height: 53px;
+                    color: $color_white;
+                    font-weight: bold;
+                    font-size: 1.1rem;
+                    border-radius: 2px;
+                    margin-bottom: 3%;
+                    cursor: pointer;
+                    i {
+                        padding: 0 5%;
+                        font-size: 1.6rem;
+                        vertical-align: middle;
+                    }
+                    &:hover {
+                        background-color: #164675;
+                    }
+            }
+            .google__signin {
+                display: flex;
+                align-items: center;
+                background-color: transparent;
+                border: 1px solid #dedfe0;
+                color: $color_medium_black;
+                margin-bottom: 7%;
+                box-shadow: 0 2px 2px 0 rgba(41,48,59,.24), 0 0 2px 0 rgba(41,48,59,.12);
+                .google__icon {
+                    box-sizing: unset;
+                    width: 10%;
+                    padding: 0 3%;
+                    img {
+                        width: 85%;
+                    }
+                }
+                &:hover {
+                    background-color: #f2f3f5;
+                }
+            }
+            form {
+                .form__wrapper {
+                    position: relative;
+                    margin-bottom: 3%;
+                    input {
+                        width: 100%;
+                        padding: 11px 45px 12px 40px;
+                        border: none;
+                        border: 1px solid $color_light_black;
+                        border-radius: 5px;
+                    }
+                    span {
+                        position: absolute;
+                        top: 22%;
+                        left: 4%;
+                        color: $color_light_black;
+                        font-size: 1.1rem;
+                    }
+                }
+                button {
+                    @include btn__default($color_red, $color_white, none, 100%, 50px, 1rem);
+                    &:active {
+                        background-color: $color_black;
+                        color: $color_white;
+                    }
+                }
+            }
+            .forgot {
+                margin: 5% 0 10% 0;
+                text-align: center;
+                a {
+                    color: #007791;
+                    text-decoration: none;
+                }
+            }
+            .sign__up {
+                text-align: center;
+                a {
+                    font-weight: bold;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+.offer {
+    margin-top: 3%;
+    .offer__wrapper {
+        text-align: right;
+        width: 53%;
+        padding: 2%;
+        margin: 5% 0;
+        margin-left: auto;
+        h5 {
+            font-weight: bold;
+        }
+        p {
+            font-size: .9rem;
+            width: 90%;
+            margin-left: auto;
+        }
+    }
+        .offer__left {
+            background: $color_dark_orange url("/img/banner-03.png") no-repeat bottom left;
+            button {
+                @include btn__default($color_dark_orange, $color_white, 2px solid $color_white, 141px, 41px, .8rem);
+                &:hover {
+                    background-color: $color_white;
+                    color: $color_dark_orange;
+                }
+            }
+        }
+        .offer__right {
+            background: $color_dark_blue url("/img/banner-04.png") no-repeat bottom left;
+            button {
+                @include btn__default($color_dark_blue, $color_white, 2px solid $color_white, 141px, 41px, .8rem);
+                &:hover {
+                    background-color: $color_white;
+                    color: $color_dark_blue;
+                }
+            }
+        }
+}

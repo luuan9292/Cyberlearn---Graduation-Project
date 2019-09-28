@@ -1,0 +1,114 @@
+.cart_page {
+    margin: 4% 0;
+    color:$color_black;
+    .amount {
+        color: $color_red;
+        font-weight: bold;
+    }
+    .oldamount {
+        text-decoration: line-through;
+    }
+    .cart__table {
+        width: 100%;
+        border: 1px solid #ebebeb;
+        thead {
+            color: $color_medium_black;
+            font-size: .9rem;
+            th{
+                padding: 1.5% 0;
+            }
+        }
+        .cart__body {
+            .cart__item {
+                border-bottom:1px solid #ebebeb;
+                & > * {
+                    padding: 20px;
+                    vertical-align: middle;
+                    text-align: center;
+                }
+                .cart__thumbnail {
+                    text-align: center;
+                    padding: 1%;
+                    img {
+                        width: 150px;
+                        height: 80px;
+                    }
+                }
+                .cart__name {
+                    text-align: left;
+                    padding-left: 0;
+                    div:first-child {
+                        color:$color_black;
+                        font-weight: bold;
+                    }
+                }
+                .cart__remove {
+                    .btn__remove {
+                        cursor: pointer;
+                        .remove {
+                            color: $color_black;
+                            text-decoration: none;
+                        }
+                        &:hover {
+                            border-color: red;
+                            .remove {
+                                color: red;
+                            }
+                        }
+                    }
+
+                }
+            }  
+            .cart__footer {
+                .cart__coupon{
+                    padding: 20px;                 
+                    input {
+                        width: 30%;
+                        padding: 1.4%;
+                        border: none;
+                        border: 1px solid #ebebeb;
+                        outline: none;
+                        margin-right: 1%;
+                        &::placeholder {
+                            color: #848484;
+                        }
+                    }
+                    button {
+                        @include btn__default($color_blue, $color_white, none, 140px, 44px, 1rem);
+                    &:active {
+                        background-color: $color_black;
+                    }
+                    }
+                }
+            }       
+        }
+    }
+    .cart__total {
+        border: 1px solid #ebebeb;
+        .table__total {
+            .total__header {
+                font-size: .9rem;
+                font-weight: bold;
+                border-top: none;
+                color: $color_medium_black;
+            }
+            .add {
+                margin-bottom: 5%;
+                @include btn__default($color_blue, $color_white, none, 100%, 42px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    color: $color_white;
+                }
+            }
+            .continue {
+                margin-bottom: 5%;
+                @include btn__default(transparent, $color_medium_black, 1px solid $color_medium_black, 100%, 42px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    color: $color_white;
+                }
+            }
+        }
+    }
+
+}

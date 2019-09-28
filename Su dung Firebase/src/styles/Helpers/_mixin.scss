@@ -1,0 +1,17 @@
+/*--------------------------
+            BUTTON
+ --------------------------*/
+ @mixin btn__default($bgcolor, $color, $border, $width, $height, $font-size) {
+    background-color: $bgcolor;
+    color: $color;
+    border: $border;
+    width: $width;
+    height: $height;
+    font-weight: bold;
+    outline: none;
+    font-size: $font-size;
+    cursor: pointer;
+    &:hover {
+        opacity: .9;
+    }
+ }

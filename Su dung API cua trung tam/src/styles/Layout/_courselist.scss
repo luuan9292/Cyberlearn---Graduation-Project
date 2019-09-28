@@ -1,0 +1,76 @@
+.courseslist__wrapper {
+    a {
+        text-decoration: none;
+    }
+    .coursesList__item {
+        display: flex;
+        margin-bottom: 5%;
+        cursor: pointer;
+        &:hover {
+            background: $color_medium_white;
+        }
+        .list__img {
+            position: relative;
+            width: 30%;
+            padding-top: 5px;
+            img {
+                width: 100%;
+                height: 100%;
+            }
+            .best__seller {
+                position: absolute;
+                top: 5%;
+                left: -3%;
+                background-color: $color_dark_blue;
+                font-weight: bold;
+                color: $color_white;
+                padding: 5px;
+                padding-left: 4%;
+                height: 32px;
+                &:before {
+                    content: "";
+                    position: absolute;
+                    width: 0;
+                    height: 0;
+                    right: -35%;;
+                    top: 0;
+                    border-width: 16px 10px;
+                    border-style: solid;
+                    border-color: $color_dark_blue  transparent $color_dark_blue  $color_dark_blue ;
+                }
+                &:after {
+                    content: ' ';
+                    position: absolute;
+                    width: 0;
+                    height: 0;
+                    left: 0;
+                    top: 100%;
+                    border-width: 5px 5px;
+                    border-style: solid;
+                    border-color: $color_dark_blue $color_dark_blue transparent transparent;
+                }
+            }
+        }
+        .list__info {
+            width: 70%;
+            margin-left: 2%;
+            h3 {
+                color: $color_dark_black;
+                margin:0;
+            }
+            h6 {
+                color: #888;
+            }
+            .rating {
+                margin: 1% 0;
+                i {
+                    color: $color_orange;
+                }
+            }
+            p {
+                color: #888;
+            }
+        }
+        
+    }
+}

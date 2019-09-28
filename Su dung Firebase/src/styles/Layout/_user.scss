@@ -1,0 +1,312 @@
+.user {
+    color: $color_black;
+    margin: 3% 0 7% 0;
+    .user__category {
+        text-align: center;
+        .user__avatar {
+            width: 100%;
+            img {
+                width:  80%;
+            }
+        }
+        .user__info {
+            margin-top: 10%;
+            .fullname {
+                font-weight: bold;
+                font-size: 1.5rem;
+                margin-bottom: 3%;
+                color: $color_dark_black;
+            }
+            .bio {
+                font-weight: bold;
+                font-size: 1rem;
+                margin-bottom: 10%;
+                color: $color_dark_black;
+            }
+            
+        }
+        .user__edit {
+            .profile__btn {
+                margin-bottom: 7%;
+                border-radius: 50px;
+                @include btn__default($color_blue, $color_white, none, 70%, 60px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    color: white;
+                }
+            }
+            .edit__profile {
+                text-align: left;
+                margin: 0 auto;
+                width: 40%;
+                margin-bottom: 8%;
+                color: $color_medium_black;
+                font-weight: bold;
+                cursor: pointer;
+                i{
+                    font-size: 1.2rem;
+                }
+                &:hover,
+                &.active {
+                    color: $color_orange;
+                }
+            }
+        }
+    }
+    .user__course {
+        h1 {
+            width: 60%;
+            font-weight: bold;
+            font-size: 3rem;
+            padding-bottom: 3%;
+            border-bottom: 1px solid #e1e2e4;
+        }
+        .my__profile {
+            .user__title {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                .social {
+                    width: 40%;
+                    text-align: right;
+                    cursor: pointer;
+                    i {
+                        font-size: 1.3rem;
+                        width: 45px;
+                        height: 45px;
+                        line-height: 45px;
+                        text-align: center;
+                        border-radius: 50%;
+                        margin-right: 3%;
+                        color: $color_white;
+                        border: 1px solid transparent;
+                    }
+                    .fa-facebook-f {
+                        background-color: #3b5999;
+                    }
+                    .fa-twitter {
+                        background-color: #55acee;
+                    }
+                    .fa-instagram {
+                        background-color: #bd081c;
+                    }
+                }
+            }
+            .user__bio {
+                padding: 3% 0;
+                border-bottom: 1px solid #e1e2e4;
+                h3 {
+                    font-weight: bold;
+                    color: $color_dark_black;
+                    margin-bottom: 3%;
+                }
+                h6 {
+                    color: $color_medium_black;
+    
+                }
+            }
+            .user__courses {
+                padding: 3% 0;
+                h3 {
+                    font-weight: bold;
+                    color: $color_dark_black;
+                    margin-bottom: 3%;
+                }
+                .nav {
+                    .nav-item {
+                        width: 25%;
+                        background-color: $color_border;
+                        text-align: center;
+                        .nav-link {
+                            color: $color_medium_black;
+                            font-weight: bold;
+                            font-size: 1.1rem;
+                            border: none;
+                            padding: 8% 0;
+                        }
+                        .nav-link.active {
+                            border-top: 2px solid $color_blue;
+                        }
+                    }
+                    
+                }
+                #menu2 {
+                    .product__item {
+                        height: 420px;
+                    }
+                }
+                .tab-content {
+                    .tab-pane {
+                        .product__items {
+                            margin-top: 3%;
+                            flex-wrap: wrap;
+                            .product__item {
+                                .item__info {
+                                    .rating {
+                                        margin-bottom: 8%;
+                                    }
+                                    button {
+                                        margin-top: 8%;
+                                        @include btn__default($color_medium_blue, $color_white, none, 100%, 50px, 1rem);
+                                        &:active {
+                                            background-color: $color_black;
+                                            color: $color_white;
+                                        }
+                                    }
+                                    .stated__day {
+                                        margin-top: 5%;
+                                        text-align: center;
+                                        color: $color_medium_black;
+    
+                                    }
+                                }
+                            }
+                        }
+                        .table__quiz {
+                            span {
+                                font-weight: bold;
+                                font-size: 1.2rem;
+                            }
+                            .lnr-checkmark-circle {
+                                color: #28b52e;
+                            }
+                            .lnr-cross {
+                                color: red;
+                            }
+                        }
+                        .order {
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: center;
+                            padding: 3%;
+                            margin-bottom: 2%;
+                            border: 1px solid $color_border;
+                            .order__id {
+                                font-size: 1.5rem;
+                                color: $color_medium_blue;
+                            }
+                            .order__success {
+                                color: #28b52e;
+                            }
+                            .order__pending {
+                                color: $color_red;
+                            }
+                        }
+                    }
+                }
+                .showmore {
+                    margin: 3% 0;
+                    @include btn__default($color_red, $color_white, none, 20%, 40px, 1rem);
+                    &:active {
+                        background-color: $color_black;
+                        color: $color_white;
+                    }
+                }
+            }
+        }
+        
+        .certificates {
+            .certificate {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 3%;
+                margin-bottom: 2%;
+                background-color: $color_border;
+                font-size: .9rem;
+                font-weight: bold;
+            }
+            .certificate__item {
+                background-color: transparent;
+                border: 1px solid $color_border;
+                div:last-child {
+                    color: $color_blue;
+                    cursor: pointer;
+                }
+            }
+        }
+
+        .account {
+            .email {
+                padding: 3% 0;
+                span {
+                    font-weight: bold;
+                }
+            }
+            .password {
+                input {
+                    display: block;
+                    margin-bottom: 2%;
+                    width: 60%;
+                    padding: 1%;
+                }
+            }
+            .change__btn {
+                margin-top: 2%;
+                @include btn__default($color_red, $color_white, none, 20%, 40px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    color: $color_white;
+                }
+            }
+        }
+        .edit__profile {
+            .info__form{
+                margin-top: 5%;
+                input,
+                textarea {
+                    background-color: $color_border;
+                    width: 100%;
+                    padding: 2%;
+                    margin: 1% 0 4% 0;
+                    border: none;
+                    outline: none;
+                    transition: background-color .5s;
+                    &:focus {
+                        background-color: transparent;
+                        border: 1px solid $color_border;
+                    }
+                }
+                textarea {
+                    height: 130px;
+                }
+                .fullname {
+                    .first__name, 
+                    .last__name {
+                        input {
+                            padding: 4%;
+                        }
+                    }
+                }
+                .social__form {
+                    margin: 5% 0;
+                    h2 {
+                        font-weight: bold;
+                        margin-bottom: 2%;
+                    }
+                    .social__wrapper {
+                        margin-top: 3%;
+                        background-color: $color_border;
+                        padding: 7% 5%;
+                        input {
+                            background-color: $color_white;
+                            padding: 3%;
+                        }
+                        .facebook,
+                        .twitter {
+                            margin-bottom: 5%;
+                        }
+                    }
+                }
+            }
+            .change__btn {
+                margin-top: 2%;
+                @include btn__default($color_red, $color_white, none, 20%, 40px, 1rem);
+                &:active {
+                    background-color: $color_black;
+                    color: $color_white;
+                }
+            }
+        }
+    }
+}

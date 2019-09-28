@@ -1,0 +1,97 @@
+.signup__component {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: rgba(41,48,59,.8);
+    height: 100vh;
+    .signup__wrapper {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width:380px;
+        height: auto;
+        background-color: $color_white;
+        color: $color_medium_black;
+        border: none;
+        border-radius: 6px;
+        box-shadow: 0 0 1px 1px rgba(20,23,28,.1), 0 3px 1px 0 rgba(20,23,28,.1);
+        outline: 0;
+        .signup__title {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 7%;
+            border-bottom: 1px solid $color_border;
+            h6 {
+                font-weight: bold;
+                color: $color_medium_black;
+                margin: 0;
+            }
+            span {
+                font-weight: bold;
+                font-size: 1.5rem;
+                cursor: pointer;
+                &:hover {
+                    opacity: 0.5;
+                }
+            }
+        }
+        .signup__form {
+            padding: 7%;
+            form {
+                .form__wrapper {
+                    position: relative;
+                    margin-bottom: 3%;
+                    input {
+                        width: 100%;
+                        padding: 11px 45px 12px 40px;
+                        border: none;
+                        border: 1px solid $color_light_black;
+                        border-radius: 5px;
+                    }
+                    span {
+                        position: absolute;
+                        top: 22%;
+                        left: 4%;
+                        color: $color_light_black;
+                        font-size: 1.1rem;
+                    }
+                }
+                .check {
+                    line-height: 1.5rem;
+                    padding: 3%;
+                    font-size: .9rem;
+                }
+                button {
+                    @include btn__default($color_red, $color_white, none, 100%, 50px, 1rem);
+                    &:active {
+                        background-color: $color_black;
+                        color: $color_white;
+                    }
+                }
+            }
+            .term {
+                font-size: 10px;
+                margin: 10% 0 5% 0;
+                text-align: center;
+                padding-bottom: 5%;
+                border-bottom: 1px solid $color_border;
+                a {
+                    text-decoration: none;
+                    font-weight: bold;
+                }
+            }
+            .sign__in {
+                text-align: center;
+                a {
+                    text-decoration: none;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}
