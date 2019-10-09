@@ -4,7 +4,7 @@ import { notify } from "../Notify/Notify";
 
 export default class UsersItem extends Component {
     onDeleteUser = taiKhoan => {
-        notify("error", "Tài khoản của bạn không được phép thực hiện!");
+        notify("error", "Chỉ có thể xóa user trong Database!");
     };
 
     render() {

@@ -86,7 +86,7 @@ class SubMenu extends Component {
                         <span className="noti__quantity">5</span>
                     </div>
 
-                    {!_.isEmpty(this.props.currentUser) ? (
+                    {!_.isEmpty(this.props.currentUser) && this.props.currentUser.taiKhoan === 'Admin' ? (
                         <Link to="/admin">
                             <div className="admin__panel">
                                 <span className="lnr lnr-cog"></span>

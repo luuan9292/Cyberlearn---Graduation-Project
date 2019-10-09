@@ -40,10 +40,12 @@ export default class Signin extends Component {
                 showLoader: false
             })
         }, 2000)
+        document.addEventListener("keydown", this.handleKeyDown, false);
     }
 
     componentWillUnmount() {
-        clearTimeout(this.setTime)
+        clearTimeout(this.setTime);
+        document.removeEventListener("keydown", this.escFunction, false);
     }
 
     /**----------------------------------------
@@ -52,6 +54,12 @@ export default class Signin extends Component {
      ----------------------------------------**/
     handlClick = () => {
         this.props.handleHideForm()
+    }
+
+    handleKeyDown = e => {
+        if(e.keyCode === 27) {
+            this.props.handleHideForm()
+        }
     }
 
     render() {

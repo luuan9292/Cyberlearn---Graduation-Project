@@ -95,7 +95,7 @@ export default class Header extends Component {
                         <span className="noti__quantity">5</span>
                     </div>
 
-                    {!_.isEmpty(currentUser) ? (
+                    {!_.isEmpty(currentUser) && currentUser.taiKhoan === 'Admin' ? (
                         <Link to="/admin">
                             <div className="admin__panel">
                                 <span className="lnr lnr-cog"></span>
