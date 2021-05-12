@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "firebase": "^6.6.0",
     "lodash": "^4.17.15",
     "node-sass": "^4.12.0",
